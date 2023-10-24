@@ -9,6 +9,7 @@
   .about {
     min-height: 100vh;
     display: flex;
+    place-content: center;
     align-items: center;
   }
 }
