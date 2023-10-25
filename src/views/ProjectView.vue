@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>This is projects page</h1>
   </div>
 </template>
 
@@ -9,8 +9,9 @@
   .about {
     min-height: 100vh;
     display: flex;
-    place-content: center;
     align-items: center;
   }
 }
 </style>
+<script setup>
+</script>
