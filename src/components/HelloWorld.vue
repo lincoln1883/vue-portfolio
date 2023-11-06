@@ -24,7 +24,7 @@ defineProps({
     <div class="social">
       <ul>
         <li>
-          <a href="https://github.com/lincolngibson" target="_blank" rel="noopener">
+          <a href="https://github.com/lincoln1883" target="_blank" rel="noopener">
             <font-awesome-icon :icon="['fab', 'github']" />
           </a>
         </li>
@@ -34,7 +34,7 @@ defineProps({
           </a>
         </li>
         <li>
-          <a href="https://twitter.com/lincolngibson" target="_blank" rel="noopener">
+          <a href="https://twitter.com/lincolngibson7" target="_blank" rel="noopener">
             <font-awesome-icon :icon="['fab', 'twitter']" />
           </a>
         </li>
