@@ -15,11 +15,6 @@ defineProps({
     <h3 class="green">I'm Lincoln Gibson.</h3>
     <p> A Full-Stack web developer.
       I love to build things with code.
-<!-- I love to build things&ndash;&gt;-->
-<!--      with code. I have a passion for learning and sharing my knowledge with others as publicly as-->
-<!--      possible. I love the logic and structure of coding and always strive to write elegant and-->
-<!--      efficient code whether it be HTML, CSS or JavaScript. When I'm not coding or pushing pixels,-->
-<!--      you'll find me in the gym or on the football field.-->
     </p>
     <div class="social">
       <ul>
@@ -87,7 +82,6 @@ strong {
 ul li{
   display: inline-block;
   padding: 0 0.5rem;
-  //border-left: 1px solid var(--color-border);
 }
 ul li a {
   font-size: 1.5rem;
